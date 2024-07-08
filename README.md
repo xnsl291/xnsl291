@@ -11,23 +11,29 @@
 <!-- Rainbow divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
+
 <table width="100%"  >
+<tr>
+    <th>
+        <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px > About me
+    </th>
+    <th>
+        <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px> Stats
+    </th>
+</tr>
+    
+<tr>
     <td style="vertical-align : top;" width=50%>
-
-  ### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-  - hello 
-
-  </td>
+        - hello 
+    </td>
   
   <td style="vertical-align : top;">
 
-  ### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Stats**
   ![Github Stars](https://github-readme-stats.vercel.app/api?username=xnsl291&show_icons=true&locale=en&count_private=true&hide_rank=true&&hide=contribs&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) 
 
-
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xnsl291&langs_count=8&theme=algolia&layout=compact) 
-      
   </td>
+  </tr>
 </table>
 
 <!-- skills -->
@@ -40,8 +46,7 @@
     ![Java](https://img.shields.io/badge/java%20-%232370ED.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
     ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
     ![SQL](https://img.shields.io/badge/MysQl-4479A1?style=for-the-badge&logo=MysQl&logoColor=white)&nbsp;
-<br>   
-    
+  
 - **Backend Development**:
 
   ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)&nbsp;
